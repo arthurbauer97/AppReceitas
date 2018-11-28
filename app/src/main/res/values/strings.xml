@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RECEITAS</string>
+    <string name="receitas_nome">RECEITAS</string>
+    <string name="tipo_bolos">BOLOS</string>
+    <string name="tipo_paes">PÃES</string>
+    <string name="tipo_pratos">PRATOS</string>
+
+</resources>
